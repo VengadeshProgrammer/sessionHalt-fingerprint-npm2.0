@@ -1,0 +1,19 @@
+{
+  "name": "sessionhalt",
+  "version": "1.0.0",
+  "description": "Generate device fingerprints to prevent session hijacking attacks.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fingerprint",
+    "session-hijacking",
+    "security",
+    "browser",
+    "authentication"
+  ],
+  "author": "Vengadesh",
+  "license": "MIT"
+}
