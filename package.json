@@ -1,6 +1,10 @@
 {
   "name": "sessionhalt",
+<<<<<<< HEAD
   "version": "1.0.2",
+=======
+  "version": "1.0.0",
+>>>>>>> fac69df2ab1bb310baf4f0b1df892ae4fe3b3c0b
   "description": "Generate device fingerprints to prevent session hijacking attacks.",
   "main": "index.js",
   "type": "module",
