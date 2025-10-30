@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sessionHalt
 
 ![npm](https://img.shields.io/npm/v/sessionHalt)
@@ -11,9 +10,9 @@ Generate **device fingerprints** in the browser to help prevent session hijackin
 ## Installation
 
 ```bash
-npm install sessionHalt
+npm install sessionhalt
 ```
-=======
+
 # sessionHalt
 
 ![npm](https://img.shields.io/npm/v/sessionHalt)
@@ -26,6 +25,5 @@ Generate **device fingerprints** in the browser to help prevent session hijackin
 ## Installation
 
 ```bash
-npm install sessionHalt
+npm install sessionhalt
 ```
->>>>>>> fac69df2ab1bb310baf4f0b1df892ae4fe3b3c0b
